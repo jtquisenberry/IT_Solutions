@@ -20,7 +20,7 @@ In the case, Windows 10 automatically re-enables the Reboot task; you can stop t
 
     2. Type the following path and click OK:
 
-    %windir%\System32\Tasks\Microsoft\Windows\UpdateOrchestrator
+        %windir%\System32\Tasks\Microsoft\Windows\UpdateOrchestrator
 
     3. Select the Reboot file without an extension, right-click it, and select Rename.
 
