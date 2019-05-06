@@ -1,5 +1,7 @@
 # How to stop your PC from automatically restarting after installing updates
 
+https://www.windowscentral.com/how-prevent-windows-10-rebooting-after-installing-updates
+
 How to stop your PC from automatically restarting after installing updates
 
 Important: Before proceeding note that this is a workaround not supported by Microsoft, and it can stop working at any time. You should use it at your own risk.
