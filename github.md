@@ -8,3 +8,5 @@
 6. VCS -> Git -> Merge Changes. Select Branches to merge = 6070-jq. I guess this is where we are merging from, not to.
 7. Push
 
+# Compare Branches
+
