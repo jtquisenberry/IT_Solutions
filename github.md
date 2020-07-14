@@ -10,3 +10,8 @@
 
 # Compare Branches
 
+https://github.consilio.com/DiscoveryProcessing/MindPalace/compare/CA-6070-jq...CA-6070
+
+# Compare Commits
+
+https://github.consilio.com/DiscoveryProcessing/MindPalace/commit/4c8251bd1fa07baf78f94b62dbddd864d935eb4b
