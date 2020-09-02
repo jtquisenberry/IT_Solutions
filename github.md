@@ -30,3 +30,11 @@ That is, if your repository name was foobar:
 and
 
 `git clone git@github.com:myusername/foobar.wiki.git` would be the path to clone its wiki.
+
+
+# Delete files Remotely but not Locally
+
+`git rm --cached my_file`
+`git commit -m "the file my_file is gone from the repository"`
+
+
