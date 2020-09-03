@@ -38,3 +38,6 @@ and
 `git commit -m "the file my_file is gone from the repository"`
 
 
+# View Local Commits
+
+`git reflog`
